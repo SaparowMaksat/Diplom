@@ -1,0 +1,47 @@
+[
+	{
+		"id": "67rdca3eeb7f6fgeed471198",
+		"model": "Apple",
+		"image": "",
+		"price": 39900,
+		"title": "Apple iPhone 11 64Gb Black",
+		"year": 2021,
+		"color": "black"
+	},
+	{
+		"id": "67rdca3eeb7f6fgeed471100",
+		"model": "Samsung",
+		"image": "",
+		"price": 70910,
+		"title": "Samsung Galaxy S23 Plus",
+		"year": 2023,
+		"color": "gray"
+	},
+	{
+		"id": "67rdca3eeb7f6fgeed4711012",
+		"model": "Xiaomi",
+		"image": "",
+		"price": 28490,
+		"title": "Xiaomi 11T 256Gb+8Gb",
+		"year": 2022,
+		"color": "white"
+	},
+	{
+		"id": "67rdca3eeb7f6fgeed471101",
+		"model": "Realme",
+		"image": "",
+		"price": 16790,
+		"title": "Realme 10 256Gb+8Gb",
+		"year": 2022,
+		"color": "black"
+	},
+	{
+		"id": "67rdca3eeb7f6fgeed471102",
+		"model": "Honor",
+		"image": "",
+		"price": 24999,
+		"title": "HONOR X9a 128Gb",
+		"year": 2023,
+		"color": "white"
+	}
+]

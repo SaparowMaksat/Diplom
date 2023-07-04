@@ -1,0 +1,3 @@
+.container {
+  @apply flex flex-row font-medium mt-0 mr-6 space-x-8 text-base;
+}

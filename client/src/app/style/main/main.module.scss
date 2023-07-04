@@ -1,0 +1,13 @@
+body {
+    @apply bg-slate-300;
+}
+
+.container {
+    @apply max-w-screen-xl h-auto mx-auto;
+    display: grid;
+    /* height: 700px; */
+    grid-template-areas: "header header" "form form" "aside main__content";
+    /* grid-template-rows: 0fr; */
+    grid-template-columns: 2fr 10fr;
+    grid-gap: 10px;
+}

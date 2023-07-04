@@ -1,1 +1,0 @@
-.container{@apply relative w-full mt-3 shadow-md}.container .image_box{@apply relative h-40 overflow-hidden rounded-lg md:h-72}.container .image_box .image_animation{@apply duration-700 ease-in-out}.container .image_box .image_animation .image{@apply absolute w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2}
